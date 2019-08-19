@@ -1,0 +1,6 @@
+**/client
+**/server
+**/a.out
+**/recv
+**/send
+*.o
